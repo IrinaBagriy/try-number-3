@@ -1,0 +1,22 @@
+.text{
+width: 500px;
+margin-left: 550px;
+margin-top: 200px;
+background-color: aqua;
+}
+
+.text:hover{
+    color: red
+}
+
+.input{
+margin-left: 700px;
+margin-top: 100px;
+}
+
+body{
+    background-color: rgb(133, 221, 157);
+}
+h1{
+    text-align: center;
+}
